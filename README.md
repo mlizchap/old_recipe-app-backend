@@ -12,11 +12,15 @@
     <td>/api</td>
 </tr>
 <tr>
-    <td>create</td>
+    <td>get</td>
+    <td>/api/:id</td>
+</tr>
+<tr>
+    <td>post</td>
     <td>/api/new</td>
 </tr>
 <tr>
-    <td>edit</td>
+    <td>put</td>
     <td>/api/:id</td>
 </tr>
 <tr>
