@@ -5,6 +5,9 @@
 - `$ npm install`
 - go to http://localhost:3050
 
+## Frontend Repo
+https://github.com/mlizchap/recipe-app-frontend
+
 ## Routes
 <table>
 <tr>
